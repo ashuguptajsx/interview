@@ -24,7 +24,7 @@ const RootLayout = async ({ children }: { children: React.ReactNode }) => {
             <div className="relative">
               <div className="absolute inset-0 bg-primary/20 rounded-full blur-sm group-hover:bg-primary/30 transition-colors duration-300"></div>
               <Image 
-                src="/logo.svg" 
+                src="/logo1.png" 
                 alt="Interviewer logo" 
                 width={28} 
                 height={28} 

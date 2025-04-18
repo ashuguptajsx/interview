@@ -93,7 +93,7 @@ const AuthForm = ({ type }: { type: FormType }) => {
                   <div className="absolute inset-0 bg-primary/20 rounded-full blur-sm"></div>
                   <div className="relative bg-gradient-to-br from-primary/30 to-primary/10 p-3 rounded-full">
                     <Image 
-                      src="/logo.svg" 
+                      src="/logo1.png" 
                       alt="logo" 
                       height={28} 
                       width={28}
