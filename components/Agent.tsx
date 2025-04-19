@@ -149,7 +149,7 @@ const Agent = ({
             <div className="avatar">
               <div className="absolute inset-0 bg-primary/20 rounded-full blur-md"></div>
               <Image
-                src="/ai-avatar.png"
+                src="/logo1.png"
                 alt="AI Interviewer"
                 width={65}
                 height={65}
@@ -182,7 +182,7 @@ const Agent = ({
             <div className="relative">
               <div className="absolute inset-0 rounded-full bg-primary/10 blur-md"></div>
               <Image
-                src="/user-avatar.png"
+                src="/user.png"
                 alt="User"
                 width={120}
                 height={120}
