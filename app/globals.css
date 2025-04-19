@@ -280,7 +280,7 @@
   }
 
   .card-interview {
-    @apply flex flex-col gap-6 justify-between bg-card rounded-xl min-h-full p-7 relative shadow-md backdrop-blur-sm transition-all duration-300 hover:shadow-lg border border-border/10;
+    @apply flex flex-col gap-6 justify-between bg-gray-800 rounded-xl min-h-full p-7 relative shadow-md backdrop-blur-sm transition-all duration-300 hover:shadow-lg border border-border/10;
 
     .badge-text {
       @apply text-xs font-semibold text-white bg-primary px-3 py-1 rounded-lg shadow-sm;

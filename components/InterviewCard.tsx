@@ -41,7 +41,7 @@ const InterviewCard = ({
             <div className="flex flex-row gap-5 mt-2 text-light-400 text-sm">
               <div className="flex flex-row gap-2 items-center">
                 <Image
-                  src="/calendar.svg"
+                  src="/calendar.png"
                   alt="calendar"
                   width={18}
                   height={18}
